@@ -13,7 +13,7 @@
 
 [![ติดตั้งโปรแกรม PuTTY](https://img.youtube.com/vi/QtLcEWebV9Y/0.jpg)](https://youtu.be/QtLcEWebV9Y "ติดตั้งโปรแกรม PuTTY")
 
-ในการคัดเลือกใช้โจทย์ฝึกพิมพ์ **Series S --> Lesson S3**
+ในใช้แบบทดสอบ **Series S --> Lesson S3** ภายในโปรแกรม GNU Typist ในการคัดเลือกผู้มีสิทธิ์เข้ารอบชิงชนะเลิศ
 
 ![Lesson S3](https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/l1.png)
 
