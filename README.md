@@ -15,9 +15,9 @@
 
 ในการคัดเลือกใช้โจทย์ฝึกพิมพ์ **Series S --> Lesson S3**
 
-![Lesson S3](imges/l1.png)
+![Lesson S3](https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/l1.png)
 
-![Lesson S3](imges/l2.png)
+![Lesson S3](https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/l2.png)
 
 ## ประผู้เข้ารอบ
 ประกาศที่เว็บไซต์ https://github.com/NPU-CPE/TYPING-CONTEST และ Facebook
