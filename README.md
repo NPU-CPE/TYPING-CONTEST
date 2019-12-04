@@ -11,6 +11,7 @@
 ## รอบคัดเลือก
 ใช้โปรแกรมฝึกพิมพ์ชื่อ [GNU Typist](https://www.gnu.org/software/gtypist/) 
 
+คลิกที่ภาพเพื่อ play video
 [![ติดตั้งโปรแกรม PuTTY](https://img.youtube.com/vi/QtLcEWebV9Y/0.jpg)](https://youtu.be/QtLcEWebV9Y "ติดตั้งโปรแกรม PuTTY")
 
 ใช้แบบทดสอบ **Series S --> Lesson S3** ภายในโปรแกรม GNU Typist ในการคัดเลือกผู้มีสิทธิ์เข้ารอบชิงชนะเลิศ
