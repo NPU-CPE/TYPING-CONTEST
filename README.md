@@ -11,10 +11,10 @@
 ## รอบคัดเลือก
 ใช้โปรแกรมฝึกพิมพ์ชื่อ [GNU Typist](https://www.gnu.org/software/gtypist/) 
 
-คลิกที่ภาพเพื่อ play video
+คลิกที่ภาพเพื่อ play video <br>
 [![ติดตั้งโปรแกรม PuTTY](https://img.youtube.com/vi/QtLcEWebV9Y/0.jpg)](https://youtu.be/QtLcEWebV9Y "ติดตั้งโปรแกรม PuTTY")
 
-ใช้แบบทดสอบ **Series S --> Lesson S3** ภายในโปรแกรม GNU Typist ในการคัดเลือกผู้มีสิทธิ์เข้ารอบชิงชนะเลิศ
+ใช้แบบทดสอบ **Series S --> Lesson S3** ภายในโปรแกรม GNU Typist ในการคัดเลือกผู้มีสิทธิ์เข้ารอบชิงชนะเลิศ ผู้ผ่านเข้ารอบคือผู้ที่สามารถ **พิมพ์ได้ความเร็วมากกว่า 10wpm** ในแบบทดสอบ Lesson S3
 
 ![Lesson S3](https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/l1.png)
 
