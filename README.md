@@ -22,14 +22,14 @@
 
 ### ข้อมูลเครื่องแม่ข่าย
 * Protocol : SSH
-* Server : vps.cpek6.com
+* Server : gtypist.cpek6.com
 * Port : 5224
 
 ### ชื่อและรหัสผ่าน
 * Username : b<รหัสนักศึกษา>
 * Password : cpe<ปีพศ.สองหลัก>
 
-ตัวอย่าง : <br>
+**ตัวอย่าง** : <br>
 user : b**61**0000001  <br>
 password : cpe**61**
 
