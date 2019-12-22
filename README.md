@@ -35,8 +35,8 @@ password : cpe**61**
 
 ##  การผ่านเข้ารอบ
 - ใช้ผลลัพธ์ซอฟต์แวร์ `gtypist` ที่เครื่อง 'gtypist.cpek6.com' (ระบบบันทึกผลตามชื่อ login) 
-- ใช้แบบทดสอบ **Series S --> Lesson S3** ใช้ผลจากค่านำหนักพิมพ์ผิด(Adjusted speed) 
-- ได้ความเร็ว**มากกว่า 10 wpm**
+- ใช้แบบทดสอบ **Series S --> Lesson S3** ใช้ผล Adjusted speed 
+- เป็นผู้พิมพ์ได้ความเร็ว**มากกว่า 10 wpm**
 
 ## ประกาศผู้เข้ารอบ
 ประกาศที่เว็บไซต์ https://github.com/NPU-CPE/TYPING-CONTEST และ Facebook
