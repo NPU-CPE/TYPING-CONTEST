@@ -21,7 +21,17 @@
 
 ![Lesson S3](https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/l2.png)
 
-### ข้อมูลเครื่องแม่ข่าย
+### การใช้โปรแกรม
+นักศึกษาสามารถใช้โปรแกรมวัดความเร็วการพิมพ์ ได้ 2 ทาง WEB และ SSH 
+
+#### WEB
+* https://gtypist.cpek6.com
+ 
+<img src=https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/gtypist-1.png width=720px>
+
+ตัวอย่างการใช้งาน [links](web-gtypist.md)
+
+#### SSH 
 * Protocol : SSH
 * Server : gtypist.cpek6.com
 * Port : 5224
