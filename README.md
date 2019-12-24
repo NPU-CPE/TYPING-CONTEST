@@ -27,7 +27,7 @@
 #### WEB
 * https://gtypist.cpek6.com
  
-<img src=https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/gtypist-1.png width=720px>
+<center><img src=https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/gtypist-1.png width=720px></center>
 
 ตัวอย่างการใช้งาน [links](web-gtypist.md)
 
