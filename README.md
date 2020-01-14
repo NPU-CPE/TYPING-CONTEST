@@ -24,6 +24,9 @@
 ### การใช้โปรแกรม
 นักศึกษาสามารถใช้โปรแกรมวัดความเร็วการพิมพ์ ได้ 2 ทาง WEB และ SSH 
 
+* คลิกที่ภาพเพื่อ play video <br>
+[![คำแนะนำสำหรับการแข่งขันรอบคัดเลือก](https://img.youtube.com/vi/z8En1CwFc8k/0.jpg)](https://youtu.be/z8En1CwFc8k "ติดตั้งโปรแกรม PuTTY")
+
 #### WEB
 * https://ssh.cpek6.com
  
