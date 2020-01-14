@@ -25,7 +25,7 @@
 นักศึกษาสามารถใช้โปรแกรมวัดความเร็วการพิมพ์ ได้ 2 ทาง WEB และ SSH 
 
 #### WEB
-* https://gtypist.cpek6.com
+* https://ssh.cpek6.com
  
 <center><img src=https://raw.githubusercontent.com/NPU-CPE/TYPING-CONTEST/master/images/gtypist-1.png width=720px></center>
 
