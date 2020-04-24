@@ -6,6 +6,10 @@
 |b603110310142| ชนะเลิศ|
 |b603110310019| รองชนะเลิศ|
 
+* Final Standing [https://g.npu.world](https://g.npu.world)
+* Qualify [https://g.npu.world/qualify](https://g.npu.world/qualify)
+* Speeder[https://g.npu.world/topspeed](https://g.npu.world/topspeed)
+
 # เกียรติบัตรสำหรับผู้ผ่านรอบคัดเลือก
 
 * https://certs.cpek6.com
