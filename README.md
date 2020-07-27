@@ -12,7 +12,7 @@
 
 # เกียรติบัตรสำหรับผู้ผ่านรอบคัดเลือก
 
-* https://certs.cpek6.com
+* [https://certs.npu.world](https://certs.npu.world)
 
 # ประกาศผู้ผ่านรอบคัดเลือก
 | Student ID |
